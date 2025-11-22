@@ -1,0 +1,5 @@
+{
+  "name": "GenShape 3D",
+  "description": "A generative 3D modeling tool powered by Gemini. Describe an object or scene, and the AI will construct it using compositional geometry.",
+  "requestFramePermissions": []
+}
